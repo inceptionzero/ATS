@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/15/ATS/src/ats/classifiers
+END
+LRTree.java
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/15/ATS/src/ats/classifiers/LRTree.java
+END
+BayesNetwork.java
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/15/ATS/src/ats/classifiers/BayesNetwork.java
+END
+LazyBayesRules.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/15/ATS/src/ats/classifiers/LazyBayesRules.java
+END
+MultipleClassifiers.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/15/ATS/src/ats/classifiers/MultipleClassifiers.java
+END
+NaiveBayesTree.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/15/ATS/src/ats/classifiers/NaiveBayesTree.java
+END
+C4_5DecisionTree.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/15/ATS/src/ats/classifiers/C4_5DecisionTree.java
+END
