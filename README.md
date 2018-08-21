@@ -15,31 +15,31 @@ The system performs data mining to classify the next day's closing value of DJI 
 
 Dataset sample:
 
-@relation dji
+    @relation dji
 
-@attribute SMA {rising,falling,flat}
+    @attribute SMA {rising,falling,flat}
 
-@attribute EMA {rising,falling,flat}
+    @attribute EMA {rising,falling,flat}
 
-@attribute VSMA {rising,falling,flat}
+    @attribute VSMA {rising,falling,flat}
 
-@attribute DoubleCrossOver {GoldenCross,DeadCross,NoCrossOver}
+    @attribute DoubleCrossOver {GoldenCross,DeadCross,NoCrossOver}
 
-@attribute MACD {positive,negative,centerline}
+    @attribute MACD {positive,negative,centerline}
 
-@attribute RSI {overbought,oversold,neither}
+    @attribute RSI {overbought,oversold,neither}
 
-@attribute classIndex {purchase,sale,retain}
+    @attribute classIndex {purchase,sale,retain}
 
-@data
+    @data
 
-falling,falling,rising,NoCrossOver,negative,oversold,retain
+    falling,falling,rising,NoCrossOver,negative,oversold,retain
 
-falling,rising,rising,GoldenCross,negative,oversold,purchase
+    falling,rising,rising,GoldenCross,negative,oversold,purchase
 
-rising,rising,falling,NoCrossOver,negative,neither,retain
+    rising,rising,falling,NoCrossOver,negative,neither,retain
 
-rising,rising,falling,DeadCross,positive,overbought,sale
+    rising,rising,falling,DeadCross,positive,overbought,sale
 
 Evaluation metric:
 
