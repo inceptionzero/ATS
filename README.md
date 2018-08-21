@@ -1,6 +1,4 @@
-Email: sinasheikh.13@gmail.com
-
-Platform: Java
+Platform: Java 6
 
 Machine Learning Library: Weka
 
